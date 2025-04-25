@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.env
+*.ckpt
+*.tfrecord
+models/fine_tuned_bert/tf_model.h5
