@@ -1,0 +1,9 @@
+HYBRID Classification Report
+              precision    recall  f1-score   support
+
+    Negative       0.90      0.86      0.88      4961
+    Positive       0.87      0.90      0.89      5039
+
+    accuracy                           0.88     10000
+   macro avg       0.88      0.88      0.88     10000
+weighted avg       0.88      0.88      0.88     10000

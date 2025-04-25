@@ -1,0 +1,9 @@
+BERT Classification Report
+              precision    recall  f1-score   support
+
+    Negative       0.99      0.98      0.98      4993
+    Positive       0.98      0.99      0.98      5007
+
+    accuracy                           0.98     10000
+   macro avg       0.98      0.98      0.98     10000
+weighted avg       0.98      0.98      0.98     10000

@@ -1,0 +1,6 @@
+tensorflow
+transformers
+scikit-learn
+pandas
+django
+matplotlib
