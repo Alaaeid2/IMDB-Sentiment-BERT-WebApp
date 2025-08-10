@@ -75,7 +75,7 @@ curl -X POST http://localhost:5000/predict \
 To keep the repository lightweight and within GitHub limits, the fine-tuned **BERT model weights** are stored externally.
 
 🔗 **Download fine-tuned BERT weights (.h5)**  
-[Download from Google Drive](https://drive.google.com/uc?export=download&id=1EtyupFPlKpQ1FPkb8IvdJ_1bJ_KKdScZ)
+[Download from Google Drive](https://drive.google.com/file/d/1PwWWn1jg_zOTnhqinfvuVbs8Whz7YTzp/view?usp=sharing)
 
 Once downloaded, place the file here in your project directory:
 ```
